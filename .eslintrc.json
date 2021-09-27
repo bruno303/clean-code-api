@@ -6,6 +6,7 @@
         "project": "./tsconfig.json"
     },
     "rules": {
-        "indent": "off"
+        "indent": "off",
+        "@typescript-eslint/strict-boolean-expressions": "off"
     }
 }
